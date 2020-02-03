@@ -1,5 +1,5 @@
 <?php		
-	$ip = "192.168.0.250";
+    $ip = "localhost";
     $port = "27015";
     
     $socket = socket_create(AF_INET, SOCK_DGRAM, 0);
